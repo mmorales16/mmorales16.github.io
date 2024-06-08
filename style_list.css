@@ -1,0 +1,53 @@
+
+
+
+
+
+.subtitulos  {
+   
+    font-size:24px ;
+    color:#006e29;
+    
+    }
+    
+    .let  {
+    text-transform: lowercase;
+    
+    }
+    
+    .let ::first-letter {
+        text-transform: uppercase;
+    }
+    
+    .letx  {
+    text-transform: lowercase;
+    
+    }
+    
+    .row  {
+        text-transform: lowercase;
+        
+        }
+      
+    .row ::first-letter {
+            text-transform: uppercase;
+    }
+    
+    .calendar{font-size: 12px}
+    
+    
+    .noaplicar {
+    text-transform: none;
+    
+    }
+    
+    .noaplicar ::first-letter {
+        text-transform: uppercase;
+    }
+    
+    tbody tr:nth-child(even) {
+      background-color: #EEEAE9; 
+    }
+    
+
+    
